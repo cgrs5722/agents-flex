@@ -1,0 +1,22 @@
+agents-flex-websearch/src/main/java/com/agentsflex/websearch/tavily/TavilySearchProvider.java
+  s_97ea0024280ac2::t_f6edbf4f6a0f03 78-79
+  s_97ea0024280ac2::t_2875994cc81b30 112-113,115-116,118
+agents-flex-websearch/src/test/java/com/agentsflex/websearch/tavily/TavilySearchProviderTest.java
+  s_97ea0024280ac2::t_a490c7c9ba6848 1-101
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.2",
+  "base_commit_sha": "2a6cb572c0624df35107db4e70a5d20f912539f7",
+  "prompts": {},
+  "sessions": {
+    "s_97ea0024280ac2": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "9b1b5fdb-f4dc-4e01-ab46-74520e27eafe",
+        "model": "glm-5.3"
+      },
+      "human_author": "cgrs5722 <cgrs5722@users.noreply.github.com>"
+    }
+  }
+}
